@@ -1,2 +1,0 @@
-# dinnerAndADrink
-Created with CodeSandbox
